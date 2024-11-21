@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Anass Elhadi</h1>
 <h3 align="center">a Software Engineering and Data Science student passionate about creating innovative solutions. With a focus on Web Development and Data Science</h3>
