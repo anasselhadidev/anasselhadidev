@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://github.com/anasselhadidev/portfolio-assets/blob/6e5b107c37b2c73fdc863c618fbd8e1e29830b6e/professionel%20picture.png">
+  <h2>🎯 Anass Elhadi</h2>
+  <p>
+    I'm Anass, a Moroccan Software Engineering Student at ENSIAS Rabat, Morocco, passionate about CS and tech!
+  </p>
+  <p>40 followers · 69 following</p>
+  <p>@ENSIAS-Bridge</p>
+  <p>📍 Rabat, Morocco</p>
+</div>
+
 <h1 align="center">Hi 👋, I'm Anass Elhadi</h1>
 <h3 align="center">a Software Engineering and Data Science student passionate about creating innovative solutions. With a focus on Web Development and Data Science</h3>
 
